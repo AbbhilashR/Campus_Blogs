@@ -1,7 +1,7 @@
 /* BASIC */
 
 html {
-    background-color: #56baed;
+    background-color: #ffffff;
 }
 
 body {
@@ -10,7 +10,7 @@ body {
 }
 
 a {
-    color: #92badd;
+    color: #ffffff;
     display: inline-block;
     text-decoration: none;
     font-weight: 400;
@@ -68,7 +68,7 @@ h2 {
 /* TABS */
 
 h2.inactive {
-    color: #cccccc;
+    color: #ffffff;
 }
 
 h2.active {
